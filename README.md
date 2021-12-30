@@ -1,5 +1,5 @@
 # hello-world-rpm
-A starting point to build RPMs from source code using make and rpmbuild.
+A starting point to build RPMs from source code using `make` and `rpmbuild`.
 
 Simply run `cd ./rpm && make rpm`. The RPMs can be found in the new `./rpm/RPMS` folder:
 
